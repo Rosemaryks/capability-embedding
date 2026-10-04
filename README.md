@@ -1,5 +1,11 @@
 # Capability Embedding for Capability Composition
 
+PCCST503 - Machine Learning — Assignment 2
+
+NAME: ROSE MARY K S
+
+REGISTER NUMBER:TCR24CS057
+
 ## Overview
 
 This project demonstrates a vector-based representation of application capabilities and how smaller capabilities can be composed into a larger workflow.
